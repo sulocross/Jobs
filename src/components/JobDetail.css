@@ -1,0 +1,34 @@
+.btnApply{
+  background-color: #3A4562;
+}
+
+.benefits{
+  background-color:#ffd0003a;
+  border: 1px solid yellow ;
+  color: #6b5801;
+}
+
+.empType{
+  background-color: #E1E6F4;
+  border: 1px solid #CBD1E2;
+  color: #55699E;
+}
+
+.returnBtn{
+  background-color: rgb(219, 224, 241);
+  border: 0px;
+  color: #3A4562;
+}
+
+.imgCorner{
+  background-color: #2A3047;
+  color: white;
+}
+
+.jobTitle{
+  line-height: 35px;
+}
+
+.salary{
+  width: 30%;
+}
